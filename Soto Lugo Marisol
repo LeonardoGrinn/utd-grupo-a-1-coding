@@ -1,0 +1,9 @@
+#include <stdlib.h>
+#include <stdio.h>
+
+int main() {
+printf("Hola feos /n");
+    printf("estoy aprendiendo /n");
+system("pause");
+return 0;
+} 
